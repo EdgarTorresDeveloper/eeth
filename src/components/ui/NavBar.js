@@ -192,9 +192,9 @@ const NavBar =()=>{
                         Skills
                     </NavLink> 
                 </li>
-                <li onClick={()=>handleClickModal("open")} className="pointer">
+                {/* <li onClick={()=>handleClickModal("open")} className="pointer">
                     <span className="navbar-item">Contact</span>
-                </li>
+                </li> */}
             </ul>
         </nav>
     );

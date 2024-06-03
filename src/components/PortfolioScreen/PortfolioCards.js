@@ -16,7 +16,7 @@ const PortfolioCards =()=>{
             document.getElementById("portfolio__modal-title").innerHTML = name.toUpperCase();
 
             //Video
-            document.getElementById("source").setAttribute('src',video);
+            if(video) document.getElementById("source").setAttribute('src',video);
             //document.getElementById("video").load();
 
             //Description

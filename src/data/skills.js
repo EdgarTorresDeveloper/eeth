@@ -137,4 +137,16 @@ export const skills =[
         'category':'languages',
         'level':50,
     },
+    {
+        'id':'ID24',
+        'skill':'Power Bi',
+        'category':'frameworks/libraries',
+        'level': 100,
+    },
+    {
+        'id':'ID25',
+        'skill':'Next UI/JS',
+        'category':'frameworks/libraries',
+        'level':50,
+    },
 ]
