@@ -79,7 +79,7 @@ const HomeScreen =()=>{
                             I don't only developed on the web, I also programmed software for mobile, desktop, Embedded systems.
                             </p>
                             <p>
-                                I have experience in a company that develop apps and web sites, I have worked 1 year and 6 months as full stack developer. I have been on six projects and finished four successfully.
+                                I have experience in a company that develop apps and web sites, I have worked more of 3 year as full stack developer. I have been on ten projects and finished six successfully approximately.
                                 I use Jira, bitbucket and Github to upload my progress every day. <br/>
                                 I work as a Full-Stack but Front-end is my passion and my strongest skill, I love to design and comsume APIs in front-end. Also I know responsive website and create components to motivate user to use my webs and apps.
                             </p>
